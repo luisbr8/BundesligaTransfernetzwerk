@@ -1,0 +1,395 @@
+from,to,from_alt,to_alt,playername,transfersumme,weight,transfertype,year,transferfenster,transferid
+FCB,ENG1,,Manchester City,Leroy Sané,45000000,7,1,2020,1,https://www.transfermarkt.de/jumplist/transfers/spieler/192565/transfer_id/2954050
+FCB,ESP2,,Espanyol Barcelona,Marc Roca,9000000,6,1,2020,1,https://www.transfermarkt.de/jumplist/transfers/spieler/336869/transfer_id/3086999
+FCB,FRA1,,Olympique Marseille,Bouna Sarr,8000000,6,1,2020,1,https://www.transfermarkt.de/jumplist/transfers/spieler/190685/transfer_id/3088708
+FCB,ITA1,,Juventus Turin,Douglas Costa,250000,3,2,2020,1,https://www.transfermarkt.de/jumplist/transfers/spieler/75615/transfer_id/3088460
+FCB,S04,,,Alexander Nübel,0,1,1,2020,1,https://www.transfermarkt.de/jumplist/transfers/spieler/195778/transfer_id/2744120
+FCB,FRA1,,FC Paris Saint-Germain,Tanguy Nianzou,0,1,1,2020,1,https://www.transfermarkt.de/jumplist/transfers/spieler/538996/transfer_id/2951022
+FCB,FRA1,,FC Paris Saint-Germain,Eric Maxim Choupo-Moting,0,1,1,2020,1,https://www.transfermarkt.de/jumplist/transfers/spieler/45660/transfer_id/3088436
+FCB,POR1,,Benfica Lissabon,Tiago Dantas,0,1,2,2020,1,https://www.transfermarkt.de/jumplist/transfers/spieler/429987/transfer_id/3090732
+ENG1,FCB,FC Liverpool,,Thiago Alcántara,22000000,7,1,2020,1,https://www.transfermarkt.de/jumplist/transfers/spieler/60444/transfer_id/3066830
+GER2,FCB,Hamburger SV,,Sven Ulreich,0,1,1,2020,1,https://www.transfermarkt.de/jumplist/transfers/spieler/40680/transfer_id/3086126
+GER2,FCB,1.FC Nürnberg,,Christian Früchtl,0,1,2,2020,1,https://www.transfermarkt.de/jumplist/transfers/spieler/336307/transfer_id/3005185
+FRA1,FCB,Olympique Marseille,,Michaël Cuisance,0,1,2,2020,1,https://www.transfermarkt.de/jumplist/transfers/spieler/344600/transfer_id/3089204
+GER2,FCB,SV Darmstadt 98,,Lars Lukas Mai,0,1,2,2020,1,https://www.transfermarkt.de/jumplist/transfers/spieler/345780/transfer_id/2980169
+NED1,FCB,PSV Eindhoven,,Adrian Fein,0,1,2,2020,1,https://www.transfermarkt.de/jumplist/transfers/spieler/379979/transfer_id/3090907
+TSG,FCB,,,Chris Richards,250000,3,2,2021,2,https://www.transfermarkt.de/jumplist/transfers/spieler/578539/transfer_id/3232013
+ITA1,FCB,Parma Calcio 1913,,Joshua Zirkzee,0,1,2,2021,2,https://www.transfermarkt.de/jumplist/transfers/spieler/435648/transfer_id/3232760
+BVB,ITA1,,Juventus Turin,Emre Can,25000000,7,1,2020,1,https://www.transfermarkt.de/jumplist/transfers/spieler/119296/transfer_id/2805009
+BVB,ENG2,,Birmingham City,Jude Bellingham,23000000,7,1,2020,1,https://www.transfermarkt.de/jumplist/transfers/spieler/581678/transfer_id/2978207
+BVB,FRA1,,FC Paris Saint-Germain,Thomas Meunier,0,1,1,2020,1,https://www.transfermarkt.de/jumplist/transfers/spieler/100986/transfer_id/2931543
+BVB,ESP1,,Real Madrid,Reinier Jesus Carvalho,0,1,2,2020,1,https://www.transfermarkt.de/jumplist/transfers/spieler/627226/transfer_id/3019948
+BRE,BVB,,,Ömer Toprak,4000000,4,1,2020,1,https://www.transfermarkt.de/jumplist/transfers/spieler/43512/transfer_id/2958823
+FRA1,BVB,Olympique Marseille,,Leonardo Balerdi,1000000,4,2,2020,1,https://www.transfermarkt.de/jumplist/transfers/spieler/575998/transfer_id/2980383
+GER2,BVB,1.FC Heidenheim 1846,,Dzenis Burnic,500000,3,1,2020,1,https://www.transfermarkt.de/jumplist/transfers/spieler/251295/transfer_id/2998405
+NED1,BVB,FC Utrecht,,Eric Oelschlägel,0,1,1,2020,1,https://www.transfermarkt.de/jumplist/transfers/spieler/152460/transfer_id/2908052
+NED1,BVB,PSV Eindhoven,,Mario Götze,0,1,1,2020,1,https://www.transfermarkt.de/jumplist/transfers/spieler/74842/transfer_id/3091286
+NED1,BVB,PEC Zwolle,,Immanuel Pherai,0,1,2,2020,1,https://www.transfermarkt.de/jumplist/transfers/spieler/412935/transfer_id/3065249
+KOE,BVB,,,Marius Wolf,0,1,2,2020,1,https://www.transfermarkt.de/jumplist/transfers/spieler/193900/transfer_id/3084662
+VFB,GER2,,Hannover 96,Waldemar Anton,4000000,5,1,2020,1,https://www.transfermarkt.de/jumplist/transfers/spieler/193004/transfer_id/2990248
+VFB,TSG,,,Gregor Kobel,4000000,5,1,2020,1,https://www.transfermarkt.de/jumplist/transfers/spieler/257814/transfer_id/2990292
+VFB,JAP1,,VV St.Truiden,Wataru Endo,1700000,5,1,2020,1,https://www.transfermarkt.de/jumplist/transfers/spieler/146310/transfer_id/2858011
+VFB,SCF,,,Pascal Stenzel,1300000,5,1,2020,1,https://www.transfermarkt.de/jumplist/transfers/spieler/195246/transfer_id/2951023
+VFB,ENG1,,FC Arsenal,Konstantinos Mavropanos,250000,3,2,2020,1,https://www.transfermarkt.de/jumplist/transfers/spieler/415912/transfer_id/2973057
+VFB,FRA2,,AC Le Havre B,Momo Cissé,0,1,1,2020,1,https://www.transfermarkt.de/jumplist/transfers/spieler/768384/transfer_id/3017239
+VFB,ITA3,,Juventus Turin U23,Naouirou Ahamada,0,1,2,2020,1,https://www.transfermarkt.de/jumplist/transfers/spieler/538971/transfer_id/3088687
+FRA1,VFB,Stade Reims,,Anastasios Donis,4000000,5,1,2020,1,https://www.transfermarkt.de/jumplist/transfers/spieler/243606/transfer_id/2929209
+FRA2,VFB,Amiens SC,,Chadrac Akolo ,3500000,5,1,2020,1,https://www.transfermarkt.de/jumplist/transfers/spieler/247459/transfer_id/2581315
+GER2,VFB,Würzburger Kickers,,David Kopacz,0,1,1,2020,1,https://www.transfermarkt.de/jumplist/transfers/spieler/317739/transfer_id/2994265
+GER2,VFB,SV Sandhausen,,Nikolas Nartey,0,1,2,2020,1,https://www.transfermarkt.de/jumplist/transfers/spieler/400546/transfer_id/2994562
+ESP1,VFB,SD Huesca,,Pablo Maffeo,0,1,2,2020,1,https://www.transfermarkt.de/jumplist/transfers/spieler/251876/transfer_id/3051834
+DNK1,VFB,FC Midtjylland,,Aílton Ferreira Silva,0,1,1,2020,2,https://www.transfermarkt.de/jumplist/transfers/spieler/283863/transfer_id/3231752
+GER3,VFB,Türkgücü München,,Maxime Awoudja,0,1,2,2020,2,https://www.transfermarkt.de/jumplist/transfers/spieler/312218/transfer_id/3229126
+B04,ITA1,,AS Rom,Patrik Schick,26500000,7,1,2020,1,https://www.transfermarkt.de/jumplist/transfers/spieler/242086/transfer_id/3051575
+B04,ESP1,,Atlético Madrid,Santiago Arias,3000000,5,2,2020,1,https://www.transfermarkt.de/jumplist/transfers/spieler/120443/transfer_id/3075174
+B04,GER3,,1.FC Kaiserslautern,Lennart Grill,2000000,5,1,2020,1,https://www.transfermarkt.de/jumplist/transfers/spieler/309397/transfer_id/2860060
+ENG1,B04,FC Chelsea,,Kai Havertz,80000000,7,1,2020,1,https://www.transfermarkt.de/jumplist/transfers/spieler/309400/transfer_id/3045423
+FRA1,B04,AS Monaco,,Kevin Volland,11000000,7,1,2020,1,https://www.transfermarkt.de/jumplist/transfers/spieler/82009/transfer_id/3041314
+GER2,B04,SV Darmstadt 98,,Adrian Stanilewicz,0,1,1,2020,1,https://www.transfermarkt.de/jumplist/transfers/spieler/389078/transfer_id/3005155
+FRA1,B04,AS Saint-Étienne,,Panagiotis Retsos,0,1,2,2020,1,https://www.transfermarkt.de/jumplist/transfers/spieler/324351/transfer_id/3088993
+UNI,B04,,,Joel Pohjanpalo,0,1,2,2020,1,https://www.transfermarkt.de/jumplist/transfers/spieler/173491/transfer_id/3082123
+NED1,B04,RKC Waalwijk,,Ayman Azhil,0,1,2,2020,1,https://www.transfermarkt.de/jumplist/transfers/spieler/452068/transfer_id/3037549
+B04,SCO1,,Celitic Glasglow,Jeremie Frimpong,11000000,7,1,2021,2,https://www.transfermarkt.de/jumplist/transfers/spieler/484547/transfer_id/3223873
+B04,ENG1,,Leicester City,Demarai Gray,2000000,5,1,2021,2,https://www.transfermarkt.de/jumplist/transfers/spieler/292417/transfer_id/3229579
+B04,ENG1,,Manchester United,Timothy Fosu-Mensah,1700000,5,1,2021,2,https://www.transfermarkt.de/jumplist/transfers/spieler/315131/transfer_id/3203510
+FCB,ESP1,,Atletico Madrid ,Lucas Hernández,80000000,7,1,2019,1,https://www.transfermarkt.de/jumplist/transfers/spieler/281963/transfer_id/2438348
+FCB,GER2,,VfB Stuttgart,Benjamin Pavard,35000000,7,1,2019,1,https://www.transfermarkt.de/jumplist/transfers/spieler/353366/transfer_id/2361742
+FCB,ESP1,,FC Barcelona ,Philippe Coutinho,8500000,6,2,2019,1,https://www.transfermarkt.de/jumplist/transfers/spieler/80444/transfer_id/2612612
+FCB,BMG,,,Michaël Cuisance,8000000,6,1,2019,1,https://www.transfermarkt.de/jumplist/transfers/spieler/344600/transfer_id/2610487
+FCB,ITA1,,Inter Mailand,Ivan Perisic,5000000,5,2,2019,1,https://www.transfermarkt.de/jumplist/transfers/spieler/42460/transfer_id/2604393
+FCB,GER2,,Hamburger SV,Fiete Arp,3000000,5,1,2019,1,https://www.transfermarkt.de/jumplist/transfers/spieler/343337/transfer_id/2397668
+FCB,ESP1,,Real Madrid,Álvaro Odriozola,0,1,2,2020,2,https://www.transfermarkt.de/jumplist/transfers/spieler/280730/transfer_id/2768186
+BVB,FCB,,,Mats Hummels,30500000,7,1,2019,1,https://www.transfermarkt.de/jumplist/transfers/spieler/39728/transfer_id/2513973
+FRA1,FCB,LOSC Lille,,Renato Sanches,20000000,7,1,2019,1,https://www.transfermarkt.de/jumplist/transfers/spieler/258027/transfer_id/2619662
+BRE,FCB,,,Marco Friedl,3500000,5,1,2019,1,https://www.transfermarkt.de/jumplist/transfers/spieler/156990/transfer_id/2488867
+BRA1,FCB,Flamengo Rio de Janeiro,,Rafinha,0,1,1,2019,1,https://www.transfermarkt.de/jumplist/transfers/spieler/33947/transfer_id/2438530
+ITA1,FCB,AC Florenz,,Franck Ribéry,0,1,1,2019,1,https://www.transfermarkt.de/jumplist/transfers/spieler/22068/transfer_id/2616300
+GER2,FCB,HSV,,Adrian Fein,0,1,2,2019,1,https://www.transfermarkt.de/jumplist/transfers/spieler/379979/transfer_id/2512320
+BVB,TSG,,,Nico Schulz,25500000,7,1,2019,1,https://www.transfermarkt.de/jumplist/transfers/spieler/85867/transfer_id/2481578
+BVB,BMG,,,Thorgan Hazard,25500000,7,1,2019,1,https://www.transfermarkt.de/jumplist/transfers/spieler/102226/transfer_id/2482498
+BVB,B04,,,Julian Brandt,25000000,7,1,2019,1,https://www.transfermarkt.de/jumplist/transfers/spieler/187492/transfer_id/2482926
+BVB,ESP1,,FC Barcelona,Paco Alcácer,21000000,7,1,2019,1,https://www.transfermarkt.de/jumplist/transfers/spieler/126716/transfer_id/2318806
+BVB,AUT1,,Red Bull Salzburg,Erling Haaland,20000000,7,1,2020,2,https://www.transfermarkt.de/jumplist/transfers/spieler/418560/transfer_id/2737490
+BVB,ITA1,,Juventus Turin,Emre Can,1000000,4,2,2020,2,https://www.transfermarkt.de/jumplist/transfers/spieler/119296/transfer_id/2781253
+BVB,ESP1,,FC Barcelona,Mateu Morey Bauzà,0,1,1,2019,1,https://www.transfermarkt.de/jumplist/transfers/spieler/388513/transfer_id/2531761
+GER2,TSG,VFB,,Gregor Kobel,500000,3,2,2019,1,https://www.transfermarkt.de/jumplist/transfers/spieler/257814/transfer_id/2521077
+GER2,F95,VFB,,Erik Thommy,500000,3,2,2019,1,https://www.transfermarkt.de/jumplist/transfers/spieler/156779/transfer_id/2548356
+GER2,BSC,VFB,,Santiago Ascacíbar,10000000,6,1,2020,2,https://www.transfermarkt.de/jumplist/transfers/spieler/423436/transfer_id/2740415
+GER2,S04,VFB,,Ozan Kabak,15000000,7,1,2019,1,https://www.transfermarkt.de/jumplist/transfers/spieler/361260/transfer_id/2530001
+PAD,GER2,,VFB,Philipp Klement,2500000,5,1,2019,1,https://www.transfermarkt.de/jumplist/transfers/spieler/60394/transfer_id/2489089
+GER2,UNI,VFB,,Christian Gentner,0,1,1,2019,1,https://www.transfermarkt.de/jumplist/transfers/spieler/19112/transfer_id/2498859
+B04 ,TSG,,,Kerem Demirbay,32000000,7,1,2019,1,https://www.transfermarkt.de/jumplist/transfers/spieler/125858/transfer_id/2470493
+B04 ,POR1,,Vitória Guimarães SC,Edmond Tapsoba,18000000,7,1,2020,2,https://www.transfermarkt.de/jumplist/transfers/spieler/564545/transfer_id/2781511
+B04 ,ARG1,,Club Atlético River Plate,Exequiel Palacios,17000000,7,1,2020,2,https://www.transfermarkt.de/jumplist/transfers/spieler/401578/transfer_id/2726673
+B04 ,FRA1,,FC Paris Saint-Germain,Moussa Diaby,15000000,7,1,2019,1,https://www.transfermarkt.de/jumplist/transfers/spieler/395516/transfer_id/2508019
+B04 ,TSG,,,Nadiem Amiri,9000000,6,1,2019,1,https://www.transfermarkt.de/jumplist/transfers/spieler/232454/transfer_id/2581905
+B04 ,NED1,,Ajax Amsterdam,Daley Sinkgraven,5000000,5,1,2019,1,https://www.transfermarkt.de/jumplist/transfers/spieler/215099/transfer_id/2511419
+SGE,B04,,,Dominik Kohr,8500000,6,1,2019,1,https://www.transfermarkt.de/jumplist/transfers/spieler/118847/transfer_id/2535927
+NED1,B04 ,VVV-Venlo,,Thorsten Kirschbaum,0,1,1,2019,1,https://www.transfermarkt.de/jumplist/transfers/spieler/38346/transfer_id/2487157
+POR1,B04,Vitória Guimarães SC B,,Tomasz Kucz,0,1,1,2019,1,https://www.transfermarkt.de/jumplist/transfers/spieler/320954/transfer_id/2583382
+GER2,B04,HSV,,Joel Pohjanpalo,0,1,2,2020,2,https://www.transfermarkt.de/jumplist/transfers/spieler/173491/transfer_id/2771169
+ENG1,B04,Sheffield United,,Panagiotis Retsos,0,1,2,2020,2,https://www.transfermarkt.de/jumplist/transfers/spieler/324351/transfer_id/2781512
+FCA,B04,,,Tin Jedvaj,0,1,2,2019,1,https://www.transfermarkt.de/jumplist/transfers/spieler/206386/transfer_id/2614800
+GER2,BMG,HSV ,,Jordan Beyer,0,1,2,2020,2,https://www.transfermarkt.de/jumplist/transfers/spieler/403898/transfer_id/2757904
+SGE,GER2,,HSV,Filip Kostic,6000000,6,1,2019,1,https://www.transfermarkt.de/jumplist/transfers/spieler/161011/transfer_id/2478517
+GER2,BRE,HSV,,Martin Harnik,0,1,2,2019,1,https://www.transfermarkt.de/jumplist/transfers/spieler/31159/transfer_id/2631172
+GER2,KOE,HSV,,Louis Schaub,0,1,2,2020,2,https://www.transfermarkt.de/jumplist/transfers/spieler/147485/transfer_id/2754077
+FCB,USA1,,Vancouver Whitecaps FC,Alphonso Davies,10000000,6,1,2019,2,https://www.transfermarkt.de/jumplist/transfers/spieler/424204/transfer_id/2195457
+FCB,S04,,,Leon Goretzka,0,1,1,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/153084/transfer_id/2008415
+ITA1,FCB,Juventus Turin,,Douglas Costa,40000000,7,1,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/75615/transfer_id/1959285
+ESP1,FCB,FC Barcelona,,Arturo Vidal,18000000,7,1,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/37666/transfer_id/2210215
+S04,FCB,,,Sebastian Rudy,15000000,7,1,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/57051/transfer_id/2241204
+CHN1,FCB,TJ Teda,,Sandro Wagner,5000000,6,1,2019,2,https://www.transfermarkt.de/jumplist/transfers/spieler/39743/transfer_id/2386279
+FRA1,FCB,,,Juan Bernat,5000000,6,1,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/126719/transfer_id/2247647
+GER2,FCB,1. FC Heidenheim,,Niklas Dorsch,0,1,1,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/251302/transfer_id/2105540
+AUT1,FCB,LASK,,Fabian Benko,0,1,1,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/337027/transfer_id/2125984
+FCA,FCB,,,Felix Götze,0,1,1,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/330635/transfer_id/2126554
+BVB,M05,,,Abdou Diallo,28000000,7,1,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/229005/transfer_id/2149293
+BVB,BRE,,,Thomas Delaney,20000000,7,1,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/91849/transfer_id/2127540
+BVB,CHN1,,Tianjin Tianhai,Axel Witsel,20000000,7,1,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/35047/transfer_id/2213008
+BVB,ARG1,,Club Atletico Bocu Juniors,Leonardo Balerdi,15500000,7,1,2019,2,https://www.transfermarkt.de/jumplist/transfers/spieler/575998/transfer_id/2368414
+BVB,SGE,,,Marius Wolf,5000000,5,1,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/193900/transfer_id/2118373
+BVB,ESP1,,FC Barcelona,Paco Alcacer,2000000,5,2,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/126716/transfer_id/2242801
+BVB,ENG1,,FC Chelsea,Christian Pulisic,0,1,2,2019,2,https://www.transfermarkt.de/jumplist/transfers/spieler/315779/transfer_id/2354713
+BVB,FCA,,,Marwin Hitz,0,1,1,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/59238/transfer_id/2099048
+BVB,GER4,,SV Werder Bremen 2,Eric Oelschlägel,0,1,1,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/152460/transfer_id/2109261
+BVB,ESP1,,Real Madrid,Achraf Hakimi,0,1,2,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/398073/transfer_id/2170730
+ENG1,BVB,FC Chelsea,,Christian Pulisic,64000000,7,1,2019,2,https://www.transfermarkt.de/jumplist/transfers/spieler/315779/transfer_id/2354712
+ENG1,BVB,West Ham United,,Andriy Yarmolenko,20000000,7,1,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/69015/transfer_id/2170146
+ENG1,BVB,FC Arsenal,,Sokratis Papastathopoulos,16000000,7,1,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/34322/transfer_id/2156887
+ENG1,BVB,Newscastle United,,Mikel Merino,7000000,6,1,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/338424/transfer_id/1933975
+VFB,BVB,,,Gonzalo Castro,5000000,5,1,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/28947/transfer_id/2152757
+BRE,BVB,,,Nuri Sahin,1000000,5,1,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/31095/transfer_id/2246988
+ENG2,BVB,Norwich City,,Felix Passlack,500000,4,2,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/274461/transfer_id/2156898
+ENG1,BVB,FC Fulham,,Andre Schürrle,400000,3,2,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/58205/transfer_id/2195622
+GER2,BVB,Dynamo Dresden,,Dzenis Burnic,300000,3,2,2019,2,https://www.transfermarkt.de/jumplist/transfers/spieler/251295/transfer_id/2388685
+TUR1,BVB,Besiktas Istanbul,,Shinji Kagawa,0,1,2,2019,2,https://www.transfermarkt.de/jumplist/transfers/spieler/81785/transfer_id/2390045
+GER2,BVB,Holstein Kiel,,Dominik Reimann,0,1,1,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/238722/transfer_id/2106765
+ENG1,BVB,Huddersfield Town,,Erik Durm,0,1,1,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/93922/transfer_id/2175028
+SGE,BVB,,,Sebastian Rode,0,1,2,2019,2,https://www.transfermarkt.de/jumplist/transfers/spieler/44466/transfer_id/2348897
+NED1,BVB,Willem II Tilburg,,Alexander Isak,0,1,2,2019,2,https://www.transfermarkt.de/jumplist/transfers/spieler/349066/transfer_id/2381677
+SCO1,BVB,Celtic Glasgow,,Jeremy Toljan,0,1,2,2019,2,https://www.transfermarkt.de/jumplist/transfers/spieler/129674/transfer_id/2390494
+B04,BRA1,,Vasca da Game Rio de Janeiro,Paulinho,18500000,7,1,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/428791/transfer_id/2096140
+B04,BSC,,,Mitchell Weiser,12000000,7,1,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/119211/transfer_id/2101608
+B04,BEL1,,RSC Anderlecht,Isaac Kiese Thelin,1000000,4,2,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/201311/transfer_id/2214255
+B04,SGE,,,Lukas Hradecky,0,1,1,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/48015/transfer_id/2092058
+B04,FCN,,,Thorsten Kirschbaum,0,1,1,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/38346/transfer_id/2149082
+ENG1,B04,FC Arsenal,,Bernd Leno,25000000,7,1,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/72476/transfer_id/2138820
+FRA1,B04,AS Monaco,,Benjamin Henrichs,20000000,7,1,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/202591/transfer_id/2243003
+GER2,B04,FC St. Pauli,,Jakub Bednarczyk,0,1,1,2019,2,https://www.transfermarkt.de/jumplist/transfers/spieler/346328/transfer_id/2377685
+GER2,B04,SV Sandhausen,,Niklas Lomb,0,1,2,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/85543/transfer_id/2119003
+NED2,B04,PSV Eindhoven II,,Marlon Frey,0,1,1,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/182752/transfer_id/2106702
+SVK1,B04,DAC Dunajaska Streda,,Tomasz Kucz,0,1,2,2019,2,https://www.transfermarkt.de/jumplist/transfers/spieler/320954/transfer_id/2379079
+VFB,TUR1,,Galatasaray Istanbul,Ozan Kabak,11000000,7,1,2019,2,https://www.transfermarkt.de/jumplist/transfers/spieler/361260/transfer_id/2372450
+VFB,ENG1,,Manchester City,Pablo Maffeo,9000000,6,1,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/251876/transfer_id/2107243
+VFB,ARG1,,Argentinos Juniors,Nicolas Gonzalez,8500000,6,1,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/486031/transfer_id/2168994
+VFB,CRO1,,GNK Dinamo Zagreb,Borna Sosa,6000000,6,1,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/293194/transfer_id/2107252
+VFB,WOL,,,Daniel Didavi,4000000,5,1,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/57995/transfer_id/2152768
+VFB,GER5,,Arminia Bielefeld U19,Roberto Massimo,2500000,5,1,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/431561/transfer_id/2107251
+VFB,TSG,,,Steven Zuber,600000,4,2,2019,2,https://www.transfermarkt.de/jumplist/transfers/spieler/68033/transfer_id/2361882
+VFB,BSC,,,Alexander Esswein,400000,3,2,2019,2,https://www.transfermarkt.de/jumplist/transfers/spieler/45662/transfer_id/2345706
+VFB,SCF,,,Marc Oliver Kempf,0,1,1,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/160938/transfer_id/1950983
+VFB,GER5,,Borussia Dortmund U19,David Kopacz,0,1,1,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/317739/transfer_id/2107248
+WOL,VFB,,,Daniel Ginczek,14000000,7,1,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/79501/transfer_id/2152770
+AUT1,VFB,RB Salzburg,,Jerome Onguene,2000000,5,1,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/272638/transfer_id/2134414
+F95,VFB,,,Jean Zimmer,900000,4,1,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/118196/transfer_id/21109233
+GER2,VFB,SpVgg Greuther Fürth,,Julian Green,200000,3,1,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/161204/transfer_id/2135765
+POR1,VFB,SC Braga,,Ailton,100000,2,2,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/283863/transfer_id/2109915
+GER2,VFB,SpVgg Greuther Fürth,,Nunoo Sarpei,50000,2,2,2019,2,https://www.transfermarkt.de/jumplist/transfers/spieler/451340/transfer_id/2380047
+GER2,VFB,Haburger SV,,Berkay Özcan,0,1,2,2019,2,https://www.transfermarkt.de/jumplist/transfers/spieler/249952/transfer_id/2382607
+GER2,VFB,Arminia Bielefeld,,Roberto Massimo,0,1,2,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/431561/transfer_id/2107250
+F95,VFB,,,Matthias Zimmermann,0,1,1,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/86848/transfer_id/2177873
+GER2,VFB,Hamburger SV,,Orel Mangala,0,1,2,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/289592/transfer_id/2216206
+F95,VFB,,,Marcin Kaminski,0,1,2,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/129358/transfer_id/2237365
+FCB,FRA1,,Olympique Lyon,Corentin Tolisso,41500000,7,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/190393/transfer_id/1793186
+FCB,ITA1,,Juventus Turin,Kingsley Coman,21000000,7,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/243714/transfer_id/1755335
+FCB,TSG,,,Niklas Süle,20000000,7,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/166601/transfer_id/1674981
+FCB,TSG,,,Sandro Wagner,13000000,7,1,2018,2,https://www.transfermarkt.de/jumplist/transfers/spieler/39743/transfer_id/1978401
+FCB,ESP1,,Real Madrid,James Rodriguez,13000000,7,2,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/88103/transfer_id/1830951
+FCB,BRE,,,Serge Gnabry,8000000,6,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/159471/transfer_id/1786448
+FCB,TSG,,,Sebastian Rudy,0,1,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/57051/transfer_id/1674980
+ITA1,FCB,Juventus Turin,,Medhi Benatia,16700000,7,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/45124/transfer_id/1764840
+ENG1,FCB,Swansea City,,Renato Sanches,8500000,6,2,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/258027/transfer_id/1899594
+ITA1,FCB,Juventus Turin,,Douglas Costa,6000000,6,2,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/75615/transfer_id/1832824
+TSG,FCB,,,Serge Gnabry,1000000,4,2,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/159471/transfer_id/1835894
+ITA1,FCB,Chievo Verona,,Gianluca Gaudino,50000,2,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/195051/transfer_id/1815762
+BRE,FCB,,,Marco Friedl,0,1,2,2018,2,https://www.transfermarkt.de/jumplist/transfers/spieler/156990/transfer_id/2013809
+BVB,UKR1,,Dynamo Kiew,Andriy Yarmolenko,25000000,7,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/69015/transfer_id/1895917
+BVB,SUI1,,FC Basel,Manuel Akanji,21500000,7,1,2018,2,https://www.transfermarkt.de/jumplist/transfers/spieler/284730/transfer_id/2003900
+BVB,SCF,,,Maximilian Philipp,20000000,7,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/143891/transfer_id/1785381
+BVB,B04,,,Ömer Toprak,12000000,7,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/43512/transfer_id/1697259
+BVB,BMG,,,Mahmoud Dahoud,12000000,7,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/191422/transfer_id/1736448
+BVB,ENG1,,Manchester City,Jadon Sancho,7840000,6,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/401173/transfer_id/1899841
+BVB,TSG,,,Jeremy Toljan,7000000,6,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/129674/transfer_id/1897586
+BVB,ESP1,,FC Barcelona,Sergio Gomez,3000000,5,1,2018,2,https://www.transfermarkt.de/jumplist/transfers/spieler/366930/transfer_id/2021384
+BVB,ENG1,,FC Chelsea,Michy Batshuayi,1500000,5,2,2018,2,https://www.transfermarkt.de/jumplist/transfers/spieler/179184/transfer_id/2022912
+BVB,FRA1,,Paris Saint-Germain,Dan-Axel Zagadou,0,1,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/344598/transfer_id/1782992
+ESP1,BVB,FC Barcelona,,Ousmane Dembélé,135000000,7,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/288230/transfer_id/1893861
+ENG1,BVB,FC Arsenal,,Piere-Emerick Aubameyang,63750000,7,1,2018,2,https://www.transfermarkt.de/jumplist/transfers/spieler/58864/transfer_id/2022025
+BMG,BVB,,,Matthias Ginter,17000000,7,1,2017,2,https://www.transfermarkt.de/jumplist/transfers/spieler/124502/transfer_id/1821114
+ESP1,BVB,Celta Vigo,,Emre Mor,13000000,7,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/283223/transfer_id/1897164
+CHN1,BVB,CQ Dangdai Lif.,,Adrián Ramos,12000000,7,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/73782/transfer_id/1684391
+ESP1,BVB,Betis Sevilla,,Marc Bartra,10500000,7,1,2018,2,https://www.transfermarkt.de/jumplist/transfers/spieler/99922/transfer_id/2021626
+SCF,BVB,,,Pascal Stenzel,4000000,5,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/195246/transfer_id/1756294
+ESP1,BVB,Newcastle United,,Mikel Merino,3000000,5,2,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/338424/transfer_id/1858193
+FRA1,BVB,AS St.-Étienne,,Neven Subotic,0,1,1,2018,1,https://www.transfermarkt.de/jumplist/transfers/spieler/40995/transfer_id/2014019
+GER4,BVB,1860 München,,Hendrik Bonmann,0,1,2,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/104220/transfer_id/1898769
+TSG,BVB,,,Felix Passlack,0,1,2,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/274461/transfer_id/1897589
+B04,ARG1,,River Plate,Lucas Alario,24000000,7,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/193782/transfer_id/1903497
+B04,GRE1,,Olymp. Piräus,Panagiotis Retsos,17500000,7,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/324351/transfer_id/1899264
+B04,BVB,,,Sven Bender,12500000,7,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/29993/transfer_id/1834176
+B04,FCA,,,Dominik Kohr,2000000,5,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/118847/transfer_id/1745847
+ITA1,B04,AC Mailand,,Hakan Chalanoglu,23300000,7,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/126414/transfer_id/1820646
+RBL,B04,,,Kevin Kampl,20000000,7,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/53418/transfer_id/1899281
+ENG1,B04,West Ham Utd.,,Chicharito,17800000,7,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/50935/transfer_id/1851693
+WOL,B04,,,Admir Mehmedi,8000000,6,1,2018,2,https://www.transfermarkt.de/jumplist/transfers/spieler/66058/transfer_id/2021876
+ENG1,B04,Leicester City,,Aleksandar Dragovic,2500000,5,2,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/59032/transfer_id/1900749
+SGE,B04,,,Danny da Costa,1000000,4,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/85906/transfer_id/1779283
+AUT1,B04,RB Salzburg,,André Ramalho,800000,4,1,2018,2,https://www.transfermarkt.de/jumplist/transfers/spieler/175792/transfer_id/1978741
+GER3,B04,SCP,,Lukas Boeder,0,1,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/227078/transfer_id/1804527
+GER2,B04,SSV Jahn Regensburg,,Patrik Dzalto,0,1,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/252088/transfer_id/1806856
+S04,B04,,,Andrejs Ciganiks,0,1,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/202659/transfer_id/1778662
+BVB,B04,,,Paterson Chato,0,1,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/149265/transfer_id/1762436
+GER2,B04,EBS,,Robin Becker,,1,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/237444/transfer_id/1792754
+KOR1,B04,Juju United,,Seung-woo Ryu,,1,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/261406/transfer_id/1831414
+GER2,B04,FCK,,Joel Abu Hanna,,1,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/267330/transfer_id/1898132
+GER4,B04,Viktoria Köln,,Marc Brasnic,,1,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/170514/transfer_id/1899559
+HSV,B04,,,Kyriakos Papadopoulos,6500000,6,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/58489/transfer_id/1812318
+HSV,BMG,,,André Hahn,6000000,6,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/42783/transfer_id/1814858
+HSV,GER2,,FCK,Julian Pollersbeck,3500000,5,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/228975/transfer_id/1807934
+HSV,NED1,,Sparta R.,Rick van Drongelen,3000000,5,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/354340/transfer_id/1866074
+HSV,GER3,,KSC,Bjarne Thoelke,0,1,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/94210/transfer_id/1806136
+FCA,HSV,,,Michael Gregoritsch,5500000,6,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/120205/transfer_id/1821866
+GER2,HSV,Erzgebirge Aue,,Arianit Ferati,50000,2,2,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/247380/transfer_id/1787026
+M05,HSV,,,René Adler,0,1,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/1784/transfer_id/1772063
+H96,HSV,,,Matthias Ostrzolek,0,1,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/53669/transfer_id/1772125
+SUI1,HSV,FC Luzern,,Dren Feka,0,1,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/224499/transfer_id/1805607
+SUI1,HSV,Grasshoppers,,Nabil Bahoui,0,1,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/93184/transfer_id/1848618
+TUR1,HSV,Giresunspor,,Batuhan Altintas,0,1,2,2018,2,https://www.transfermarkt.de/jumplist/transfers/spieler/216597/transfer_id/2018962
+TUR1,HSV,Y. Malatyaspor,,Batuhan Altintas,0,1,2,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/216597/transfer_id/1885548
+GER3,HSV,Unterhaching,,Finn Porath,0,1,2,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/241307/transfer_id/1899709
+ENG2,HSV,Leeds United,,Pierre-Michel Lasogga,0,1,2,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/73013/transfer_id/1899743
+VFB,SUI1,,FC Sion,Chadrac Akolo,6000000,6,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/247459/transfer_id/1828478
+VFB,ARG1,,Estudiantes,Santiago Ascacibar,6000000,6,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/423436/transfer_id/1889421
+VFB,ITA1,,Juventus Turin,Anastasios Donis,4000000,5,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/243606/transfer_id/1817518
+VFB,ENG1,,Leicester City,Ron-Robert Zieler,4000000,5,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/21327/transfer_id/1831730
+VFB,WOL,,,Mario Gómez,3000000,5,1,2018,2,https://www.transfermarkt.de/jumplist/transfers/spieler/6288/transfer_id/1979183
+VFB,POR1,,Estoril Paria,Aîlton,2500000,5,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/283863/transfer_id/1842059
+VFB,TUR1,,Besiktas,Andreas Beck,2500000,5,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/31182/transfer_id/1899843
+VFB,BEL1,,RSC Anderlecht,Orel Mangala,1800000,5,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/289592/transfer_id/1787634
+VFB,FCA,,,Erik Thommy,500000,3,1,2018,2,https://www.transfermarkt.de/jumplist/transfers/spieler/156779/transfer_id/2007547
+VFB,GER4,,ENE,Alexander Meyer,400000,3,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/76158/transfer_id/1898133
+VFB,BVB,,,Jacob Bruun Larsen,200000,3,2,2018,2,https://www.transfermarkt.de/jumplist/transfers/spieler/293281/transfer_id/2012419
+VFB,S04,,,Dennis Aogo,0,1,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/19354/transfer_id/1764322
+VFB,BVB,,,Dzenis Burnic,0,1,2,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/251295/transfer_id/1829834
+KOE,VFB,,,Simon Terodde,3000000,5,1,2018,2,https://www.transfermarkt.de/jumplist/transfers/spieler/36284/transfer_id/1977673
+M05,VFB,,,Alexandru Maxim,3000000,5,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/129513/transfer_id/1811698
+RUS1,VFB,Dynamo Moskau,,Toni Sunjic,700000,4,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/60790/transfer_id/1793545
+ESP1,VFB,UD Levante,,Mitchell Langerak,600000,2,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/49347/transfer_id/1898100
+GER2,VFB,F95,,Jean Zimmer,100000,2,2,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/118196/transfer_id/1874154
+GER2,VFB,FCN,,Tobias Werner,100000,2,2,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/26878/transfer_id/1896056
+GER2,VFB,SGF,,Julian Green,100000,2,2,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/161204/transfer_id/1899786
+GER2,VFB,KSC,,Benjamin Uphoff,0,1,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/120296/transfer_id/1755775
+GER2,VFB,DUI,,Boris Tashchy,0,1,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/138292/transfer_id/1821480
+AUT1,VFB,Austira Wien,,Florian Klein,0,1,1,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/20276/transfer_id/1755622
+SUI1,VFB,FC Sion,,Anto Grgic,0,1,2,2018,2,https://www.transfermarkt.de/jumplist/transfers/spieler/192637/transfer_id/1999231
+POR1,VFB,Estoril Praia,,Aîlton,0,1,2,2018,2,https://www.transfermarkt.de/jumplist/transfers/spieler/283863/transfer_id/2013935
+USA1,VFB,NYCFC,,Ebenezer Ofori,0,1,2,2018,2,https://www.transfermarkt.de/jumplist/transfers/spieler/262597/transfer_id/2042770
+AUT1,VFB,RB Salzburg,,Jérôme Onguéné,0,1,2,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/272638/transfer_id/1899890
+SVK1,VFB,FK Senica,,Nunoo Sarpei,0,1,2,2017,1,https://www.transfermarkt.de/jumplist/transfers/spieler/451340/transfer_id/1904494
+M05,B04,,,André Ramalho,500000,3,2,2016,1,https://www.transfermarkt.de/jumplist/transfers/spieler/175792/transfer_id/1587676
+HSV,B04,,,Kyriakos Papadopoulos,500000,3,2,2017,2,https://www.transfermarkt.de/jumplist/transfers/spieler/58489/transfer_id/1676498
+GER3,B04,SG Sonnenhof Großaspach,,David Yelldell,0,1,1,2016,1,https://www.transfermarkt.de/jumplist/transfers/spieler/4746/transfer_id/1484024
+GER3,B04,FC Fortuna Köln,,Marc Brasnic,0,1,2,2016,1,https://www.transfermarkt.de/jumplist/transfers/spieler/170514/transfer_id/1526641
+GER4,B04,SG Wattenscheid 09,,Maximilian Wagener,0,1,1,2016,1,https://www.transfermarkt.de/jumplist/transfers/spieler/158530/transfer_id/1547233
+ZYP1,B04,Omonia Nikosia,,Dario Kresic,0,1,1,2016,1,https://www.transfermarkt.de/jumplist/transfers/spieler/14219/transfer_id/1484025
+GER4,B04,FC Viktoria Köln,,Andrejs Ciganiks,0,1,2,2016,1,https://www.transfermarkt.de/jumplist/transfers/spieler/202659/transfer_id/1516742
+GER2,B04,1. FC Kaiserslautern,,Marlon Frey,0,1,2,2016,1,https://www.transfermarkt.de/jumplist/transfers/spieler/182752/transfer_id/1523828
+GER3,B04,SSV Jahn Regensburg,,Patrik Dzalto,0,1,2,2016,1,https://www.transfermarkt.de/jumplist/transfers/spieler/252088/transfer_id/1533316
+GER2,B04,1. FC Heidenheim 1846,,Robin Becker,0,1,2,2016,1,https://www.transfermarkt.de/jumplist/transfers/spieler/237444/transfer_id/1540405
+ITA1,B04,Ferencvárosi TC,,Seung-woo Ryu,0,1,2,2016,1,https://www.transfermarkt.de/jumplist/transfers/spieler/261406/transfer_id/1585399
+GER3,B04,SC Paderborn 07,,Lukas Boeder,0,1,2,2017,2,https://www.transfermarkt.de/jumplist/transfers/spieler/227078/transfer_id/1683628
+GER2,B04,Arminia Bielefeld,,Malcolm Cacutalua,,1,1,2016,1,https://www.transfermarkt.de/jumplist/transfers/spieler/123558/transfer_id/1556293
+HSV,GER2,,VfB Stuttgart,Filip Kostic,14000000,7,1,2016,1,https://www.transfermarkt.de/jumplist/transfers/spieler/161011/transfer_id/1548804
+HSV,BRA1,,Grêmio Porto Alegre,Walace,9200000,6,1,2017,2,https://www.transfermarkt.de/jumplist/transfers/spieler/323954/transfer_id/1690204
+HSV,BRA1,,Club Atlético Mineiro,Douglas Santos,6500000,6,1,2016,1,https://www.transfermarkt.de/jumplist/transfers/spieler/220793/transfer_id/1588073
+HSV,ESP1,,FC Barcelona,Alen Halilovic,5000000,5,1,2016,1,https://www.transfermarkt.de/jumplist/transfers/spieler/226074/transfer_id/1545270
+HSV,GER2,,1. FC Union Berlin,Bobby Wood,4000000,5,1,2016,1,https://www.transfermarkt.de/jumplist/transfers/spieler/72519/transfer_id/1483487
+HSV,KOE,,,Mergim Mavraj,1800000,5,1,2017,2,https://www.transfermarkt.de/jumplist/transfers/spieler/38267/transfer_id/1655107
+HSV,SGE,,,Luca Waldschmidt,1300000,5,1,2016,1,https://www.transfermarkt.de/jumplist/transfers/spieler/196095/transfer_id/1519145
+HSV,GER2,,VfB Stuttgart,Arianit Ferati,850000,4,1,2016,1,https://www.transfermarkt.de/jumplist/transfers/spieler/247380/transfer_id/1520506
+HSV,D98,,,Christian Mathenia,800000,4,1,2016,1,https://www.transfermarkt.de/jumplist/transfers/spieler/82361/transfer_id/1484826
+TSG,HSV,,,Kerem Demirbay,4700000,5,1,2016,1,https://www.transfermarkt.de/jumplist/transfers/spieler/125858/transfer_id/1534438
+BRA1,HSV,FC Santos,,Cléber Reis,2500000,5,1,2017,2,https://www.transfermarkt.de/jumplist/transfers/spieler/226009/transfer_id/1661691
+ESP1,HSV,UD Las Palmas,,Alen Halilovic,500000,3,2,2017,2,https://www.transfermarkt.de/jumplist/transfers/spieler/226074/transfer_id/1686769
+GER2,HSV,1. FC Kaiserslautern,,Zoltán Stieber,250000,3,1,2016,1,https://www.transfermarkt.de/jumplist/transfers/spieler/61591/transfer_id/1568232
+CHN1,HSV,Kasimpasa,,Batuhan Altintas,100000,2,2,2016,1,https://www.transfermarkt.de/jumplist/transfers/spieler/216597/transfer_id/1547504
+SUI1,HSV,FC St. Gallen 1879,,Mohamed Gouaida,50000,2,2,2016,1,https://www.transfermarkt.de/jumplist/transfers/spieler/192294/transfer_id/1510986
+GER2,HSV,Fortuna Düsseldorf,,Arianit Ferati,50000,2,2,2016,1,https://www.transfermarkt.de/jumplist/transfers/spieler/247380/transfer_id/1520508
+KOE,HSV,,,Artjoms Rudnevs,0,1,1,2016,1,https://www.transfermarkt.de/jumplist/transfers/spieler/103547/transfer_id/1479379
+GER3,HSV,SV Wehen Wiesbaden,,Philipp Müller,0,1,1,2016,1,https://www.transfermarkt.de/jumplist/transfers/spieler/196570/transfer_id/1479399
+BRE,HSV,,,Jaroslav Drobny,0,1,1,2016,1,https://www.transfermarkt.de/jumplist/transfers/spieler/12864/transfer_id/1500058
+GER3,HSV,1. FSV Mainz 05 II,,Matti Steinmann,0,1,1,2016,1,https://www.transfermarkt.de/jumplist/transfers/spieler/148209/transfer_id/1507488
+FCA,HSV,,,Gojko Kacar,0,1,1,2016,1,https://www.transfermarkt.de/jumplist/transfers/spieler/28683/transfer_id/1543636
+GER2,HSV,TSV 1860 München,,Ivica Olic,0,1,1,2016,1,https://www.transfermarkt.de/jumplist/transfers/spieler/7427/transfer_id/15512733
+NED1,HSV,Anzhi Makhachkala,,Ivo Illicevic,0,1,1,2016,1,https://www.transfermarkt.de/jumplist/transfers/spieler/30308/transfer_id/1418546
+D98,HSV,,,Sven Schipplock,0,1,2,2016,1,https://www.transfermarkt.de/jumplist/transfers/spieler/52530/transfer_id/1572325
+FCB,ITA1,,Juventus Turin,Arturo Vidal,39250000,7,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/37666/transfer_id/1302700
+FCB,UKR1,,Shaktar Donezk,Douglas Costa,30000000,7,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/75615/transfer_id/1273730
+FCB,VFB,,,Joshua Kimmich,8500000,6,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/161056/transfer_id/1166765
+FCB,ITA1,,Juventus Turin,Kingsley Coman,7000000,6,2,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/243714/transfer_id/1332351
+FCB,VFB,,,Sven Ulreich,3500000,5,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/40680/transfer_id/1261202
+FCB,RUS1,,Spartak Moskau,Serdar Tasci,2500000,5,2,2016,2,https://www.transfermarkt.de/jumplist/transfers/spieler/34593/transfer_id/1425144
+ITA1,FCB,Inter Mailand,,Xherdan Shaqiri,15000000,7,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/86792/transfer_id/1170979
+ENG1,FCB,Manchester United,,Bastian Schweinsteiger,9000000,6,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/2514/transfer_id/1322817
+WOL,FCB,,,Dante,6000000,6,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/16136/transfer_id/1332287
+ITA1,FCB,SSC Neapel,,Pepe Reina,2000000,5,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/7825/transfer_id/1266560
+S04,FCB,,,Pierre-Emile Höjbjerg,1000000,4,2,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/167799/transfer_id/1330790
+ENG1,FCB,AFC Sunderland,,Jan Kirchhoff,1000000,4,1,2016,2,https://www.transfermarkt.de/jumplist/transfers/spieler/49734/transfer_id/1399648
+BSC,FCB,,,Sinan Kurt,500000,3,1,2016,2,https://www.transfermarkt.de/jumplist/transfers/spieler/170530/transfer_id/1399233
+BSC,FCB,,,Mitchell Weiser,0,1,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/119211/transfer_id/1262964
+SUI1,FCB,FC St. Gallen,,Gianluca Gaudino,0,1,2,2016,2,https://www.transfermarkt.de/jumplist/transfers/spieler/195051/transfer_id/1401365
+BVB,B04,,,Gonzalo Castro,11000000,7,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/28947/transfer_id/1248778
+BVB,GER2,,SC Freiburg,Roman Bürki,3500000,5,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/59027/transfer_id/1260223
+BVB,M05,,,Ju-ho Park,3000000,5,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/111900/transfer_id/1331343
+BVB,GER2,,1860 München,Julian Weigl,900000,4,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/196792/transfer_id/1250796
+BVB,ENG1,,Manchester United,Adnan Januzaj,0,1,2,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/177847/transfer_id/1333084
+ESP1,BVB,FC Sevilla,,Ciro Immobile,11000000,7,1,2016,2,https://www.transfermarkt.de/jumplist/transfers/spieler/105521/transfer_id/1406981
+B04,BVB,,,Kevin Kampl,11000000,7,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/53418/transfer_id/1330449
+BMG,BVB,,,Jonas Hofmann,8000000,6,1,2016,2,https://www.transfermarkt.de/jumplist/transfers/spieler/7161/transfer_id/1391587
+VFB,BVB,,,Mitchell Langerak,3500000,5,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/49347/transfer_id/1271329
+KOE,BVB,,,Milos Jojic,3000000,5,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/160285/transfer_id/1277690
+ESP1,BVB,,,Ciro Immobile,3000000,5,2,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/105521/transfer_id/1285126
+TUR1,BVB,Galatasaray,,Kevin Großkreutz,1500000,5,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/44521/transfer_id/1335037
+ITA1,BVB,AC Florenz,,Jakub Blaszczykowski,1000000,4,2,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/29835/transfer_id/1333349
+GER2,BVB,FC St. Pauli,,Jeremy Dudziak,200000,3,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/147359/transfer_id/1330460
+GER2,BVB,1.FC Kaiserslautern,,Zlatan Alomerovic,200000,3,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/47594/transfer_id/1258631
+GER2,BVB,SC Freiburg,,Pascal Stenzel,100000,2,2,2016,2,https://www.transfermarkt.de/jumplist/transfers/spieler/195246/transfer_id/1422291
+GER2,BVB,SC Paderborn,,Oliver Kirch,0,1,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/2150/transfer_id/1332302
+B04,BRA1,,Internacional,Charles Aranguiz,13000000,7,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/89701/transfer_id/1317673
+B04,ENG1,,Manchester United,Chicharito,12000000,7,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/50935/transfer_id/1333170
+B04,GER2,,SC Freiburg,Admir Mehmedi,8000000,6,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/66058/transfer_id/1258601
+B04,HSV,,,Jonathan Tah,7500000,6,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/196357/transfer_id/1288453
+B04,S04,,,Kyriakos Papadopoulos,6500000,6,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/58489/transfer_id/1255646
+B04,AUT1,,,André Ramalho,0,1,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/175792/transfer_id/1148046
+ENG1,B04,Tottenham,,Heung-min Son,30000000,7,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/91845/transfer_id/1330448
+BMG,B04,,,Josip Drmic,10000000,6,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/140579/transfer_id/1262265
+ENG1,B04,Stoke City,,Philipp Wollscheid,3800000,5,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/53173/transfer_id/1247707
+NED1,B04,Ajax Amsterdam,,Arkadiusz Milik,2800000,5,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/191891/transfer_id/1222851
+FCA,B04,,,Konstantinos Stafylidis,2500000,5,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/148967/transfer_id/1323923
+FCA,B04,,,Dominik Kohr,1400000,5,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/118847/transfer_id/1263038
+M05,B04,,,Giulio Donati,1000000,4,1,2016,2,https://www.transfermarkt.de/jumplist/transfers/spieler/88684/transfer_id/1418078
+VFB,B04,,,Robbie Kruse,750000,4,2,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/51972/transfer_id/1333151
+GER3,B04,Preußen Münster,,Niklas Lomb,0,1,2,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/85543/transfer_id/1250328
+GER4,B04,SC Wiedenbrück,,Paterson Chato,0,1,2,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/149265/transfer_id/1775675
+GER2,B04,SC Paderborn,,Marc Brasnic,0,1,2,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/170514/transfer_id/1265773
+GER3,B04,FSV Mainz 05 II,,Maximilian Wagener,0,1,2,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/158530/transfer_id/1261713
+GER3,B04,SC Fortuna Köln,,Dennis Engelman,0,1,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/145420/transfer_id/1250177
+SGE,B04,Eintracht Frankfurt,,Stefan Reinartz,0,1,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/43274/transfer_id/1248061
+GER2,B04,Arminia Bielefeld,,Seung-woo Ryu,0,1,2,2016,2,https://www.transfermarkt.de/jumplist/transfers/spieler/261406/transfer_id/1424508
+HSV,ENG1,,Tottenham,Lewis Holtby,6500000,6,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/55508/transfer_id/1222232
+HSV,ITA2,,Cagliari Calcio,Albin Ekdal,4500000,5,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/49275/transfer_id/1290256
+HSV,GER2,,VfL Bochum,Michael Gregoritsch,3000000,5,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/120205/transfer_id/1297078
+HSV,WOL,,,Aaron Hunt,3000000,5,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/4687/transfer_id/1333126
+HSV,TSG,,,Sven Schipplock,2500000,5,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/52530/transfer_id/1299467
+HSV,BMG,,,Josip Drmic,1200000,5,2,2016,2,https://www.transfermarkt.de/jumplist/transfers/spieler/140579/transfer_id/1424352
+HSV,TUR1,,Bursaspor,Batuhan Altintas,400000,3,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/216597/transfer_id/1253246
+HSV,VFB,,,Gotoku Sakai,700000,4,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/103310/transfer_id/1278739
+HSV,SUI1,,FC Vaduz,Andreas Hirzel,50000,2,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/167189/transfer_id/1289599
+HSV,SAU1,,Al-Ahli,Nabil Bahoui,0,1,1,2016,2,https://www.transfermarkt.de/jumplist/transfers/spieler/93184/transfer_id/1425190
+ENG1,HSV,FC Watford,,Valon Behrami,3500000,5,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/21905/transfer_id/1284410
+ESP1,HSV,Celta Vigo,,Marcelo Díaz,1800000,5,1,2016,2,https://www.transfermarkt.de/jumplist/transfers/spieler/83895/transfer_id/1407806
+GER4,HSV,VfL Wolfsburg II,,Alexander Brunst,200000,3,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/146693/transfer_id/1276441
+GER2,HSV,Freuther Fürth,,Ronny Marcos,100000,2,1,2016,2,https://www.transfermarkt.de/jumplist/transfers/spieler/159037/transfer_id/1401179
+GER2,HSV,1.FC Nürnberg,,Zoltán Stieber,100000,2,2,2016,2,https://www.transfermarkt.de/jumplist/transfers/spieler/61591/transfer_id/1410721
+ESP1,HSV,Betis Sevilla,,Rafael van der Vaart,0,1,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/4192/transfer_id/1220054
+GER2,HSV,FC St. Pauli,,Lasse Sobiech,0,1,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/79503/transfer_id/1268865
+M05,HSV,,,Maximilian Beister,0,1,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/58379/transfer_id/1269857
+ESP1,HSV,Betis Sevilla,,Heiko Westermann,0,1,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/1726/transfer_id/1268066
+FRA1,HSV,GFC Ajaccio,,Jacques Zoua,0,1,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/106181/transfer_id/1312280
+CZE1,HSV,Sparta Prag,,Petr Jiracek,0,1,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/63737/transfer_id/1328083
+GER2,HSV,Fortuna Düsseldorf,,Kerem Demirbay,0,1,2,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/125858/transfer_id/1328235
+GER3,HSV,Chemnitzer FC,,Matti Steinmann,0,1,2,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/148209/transfer_id/1296935
+GER2,HSV,Karlsruher SC,,Mohamed Gouaida,0,1,2,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/192294/transfer_id/1328650
+VFB,BVB,,,Mitchell Langerak,3500000,5,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/49347/transfer_id/1271329
+VFB,RUS1,,Kuban Krasnodar,Toni Sunjic,3000000,5,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/60790/transfer_id/1330045
+VFB,TUR1,,Galatasaray,Kevin Großkreutz,2170000,5,1,2016,2,https://www.transfermarkt.de/jumplist/transfers/spieler/44521/transfer_id/1398282
+VFB,GER2,,RB Leipzig,Joshua Kimmich,1500000,5,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/161056/transfer_id/1166764
+VFB,CZE1,,FC Vysocina,Jan Kliment,1500000,5,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/218299/transfer_id/1271331
+VFB,ITA1,,FC Empoli,Federico Barba,1000000,4,2,2016,2,https://www.transfermarkt.de/jumplist/transfers/spieler/165873/transfer_id/1424483
+VFB,NED1,,PSV Eindhoven,Przemyslaw Tyton,1000000,4,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/33210/transfer_id/1267022
+VFB,GER2,,1.FC Heidenheim,Philip Heise,750000,4,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/112617/transfer_id/1249078
+VFB,UKR1,,Dynamo Kiev,Artem Kravets,500000,3,2,2016,2,https://www.transfermarkt.de/jumplist/transfers/spieler/58405/transfer_id/1395845
+VFB,GER2,,SC Paderborn,Lukas Rupp,0,1,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/82863/transfer_id/1267023
+VFB,ESP1,,Atlético Madrid,Emiliano Insúa,0,1,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/45599/transfer_id/1284029
+ITA1,VFB,AS Rom,,Antonio Rüdiger,4000000,5,2,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/86202/transfer_id/1323453
+USA1,VFB,FC Dallas,,Carlos Gruezo,1500000,5,1,2016,2,https://www.transfermarkt.de/jumplist/transfers/spieler/189475/transfer_id/1416975
+GER2,VFB,SC Paderborn,,Kevin Stöger,1000000,4,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/106872/transfer_id/1328109
+POL1,VFB,Legia Warschau,,Adam Hlousek,500000,3,1,2016,2,https://www.transfermarkt.de/jumplist/transfers/spieler/62800/transfer_id/1423820
+GER2,VFB,Fortuna Düsseldorf,,Sercan Sararer,500000,3,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/45464/transfer_id/1250372
+TUR1,VFB,Caykur Rizespor,,Robin Yalcin,250000,3,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/124422/transfer_id/1272522
+GER2,VFB,1.FC Nürnberg,,Thorsten Kirschbaum,100000,2,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/38346/transfer_id/1273962
+GRE1,VFB,Panathinaikos,,Odysseas Vlachodimos,0,1,1,2016,2,https://www.transfermarkt.de/jumplist/transfers/spieler/124419/transfer_id/1419519
+GER2,VFB,Fortuna Düsseldorf,,Karim Haggui,0,1,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/17885/transfer_id/1225298
+D98,VFB,,,Konstantin Rausch,0,1,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/45668/transfer_id/1278882
+NOR1,VFB,Vålerenga,,Mohammed Abdellaoue,0,1,1,2015,1,https://www.transfermarkt.de/jumplist/transfers/spieler/61901/transfer_id/1313071
