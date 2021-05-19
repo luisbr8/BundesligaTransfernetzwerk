@@ -1,21 +1,73 @@
+# Datensatz Netzwerkanalyse #
+### Christian Mittweg, Eddie Schatz, Luis Bracht, Luisa Käppele, Sina Kuonath  ###
 
-CODEBUCH
+## Inhalt
+- Edges.csv (Edgelist)
+- Nodes.csv (Nodelist)
+- Codebuch_Pretest.md (Codierung der Datensätze)
 
-nodelist
-id	Abkürzung für den Verein/die Liga
-name	Ausgeschriebene Name des Vereins/der Liga
-type	Kategorisierung Liga oder Verein (1=Verein, 2=Liga)
-level	Niveau der Liga. Orientiert an 5-Jahres-Wertung der UEFA (1=Big Five, 2=Platz 6 bis 22 und Brasilien, USA, China, 3=Rest)
+# EDGE-Attribute
 
-edgelist
-from	Verein/Liga, von dem der Geldfluss ausgeht
-to	Verein/Liga, zu dem der Geldfluss geht
-from_alt	Wenn Liga, dann Vereinsname des geldgebenden Vereins
-to_alt	Wenn Liga, dann Vereinsname des geldnehmenden Vereins
-playername	Name des transferierten Spielers
-transfersumme	Transfersumme
-weight	Kategorisierung der Transfersumme (1=ablösefrei, 2=bis 100.000 Euro, 3=bis 500.000 Euro, 4= bis eine Million Euro, 5=bis 5 Millionen Euro, 6=bis 10 Millionen Euro, 7=über zehn Millionen Euro)
-transfertype	Kategorisierung Leihe oder Kauf (1=Kauf, 2=Leihe)
-year	Jahr des Transfers
-transferfenster	Kategorisierung Winter- oder Sommer-Transferfenster (1=Sommer, 2=Winter)
-transferid	Einzigartiger Transfer-Id-Link von Transfermarkt.de zu Überprüfungszwecken		
+FROM  
+Verein/Liga, von dem der Geldfluss ausgeht  
+
+TO  
+Verein/Liga, zu dem der Geldfluss geht  
+
+FROM_ALT  
+Wenn Liga, dann Vereinsname des geldgebenden Vereins  
+
+TO_ALT  
+Wenn Liga, dann Vereinsname des geldnehmenden Vereins 
+
+PLAYERNAME  
+Name des transferierten Spielers  
+
+WEIGHT  
+Kategorisierung der Transfersummen  
+
+1 = ablösefrei oder unbekannte Transfersumme  
+2 = bis 100.000€  
+3 = bis 500.000€  
+4 = bis 1.000.000€  
+5 = bis 5.000.000€  
+6 = bis 10.000.000€ 
+7 = über 10.000.000€  
+
+TRANSFERTYPE  
+Beschreibt die Art des Transfers  
+
+1 = Transfer  
+2 = Leihgeschäft  
+
+YEAR  
+Das Jahr, indem das Transfergeschäft vollzogen wurde  
+
+TRANSFERFENSTER   
+Das Transferfenster, indem das Transfergeschäft vollzogen wurde 
+
+1 = Sommertransferfenster   
+2 = Wintertransferfenster 
+
+TRANSFERID  
+Hier steht der einzigartige Link zum Wechsel auf transfermarkt.de (bsp. https://www.transfermarkt.de/jumplist/transfers/spieler/768384/transfer_id/3017239). Dieser Link dient zum einen als Beleg und zum anderen als Überprüfungsmöglichkeit, um mögliche Duplikate schnell ausfindig zu machen.  
+
+# NODE-Attribute  
+  
+ID   
+Einzigartige Abkürzung der Vereine und Ligen.   
+  
+TYPE  
+Der Typ des Knotens   
+
+1 = Verein, der zum Zeitpunkt des Transfers in der Bundesliga gespielt hat  
+2 = Untere deutsche Ligen sowie ausländische Ligen  
+
+LEVEL   
+Das Niveau der Liga. Orientiert sich an der Fünf-Jahres-Wertung der UEFA sowie einer eigenen Einordnung für außereuropäische Ligen  
+
+1 = "Big Five"-Ligen in Europa   
+2 = Platz 6 bis 22 der UEFA, dazu Brasilien, USA und China als attraktive außereuropäische Ligen  
+3 = Rest  
+
+##
