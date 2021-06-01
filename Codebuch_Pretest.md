@@ -56,6 +56,12 @@ Hier steht der einzigartige Link zum Wechsel auf transfermarkt.de (bsp. https://
   
 ID   
 Einzigartige Abkürzung der Vereine und Ligen.   
+
+NAME
+Einzigartige Abkürzung der Vereine und Ligen für Beschriftung im Netwerk.
+
+NAME2
+Ausgeschriebener Name des Vereins oder der Liga. 
   
 TYPE  
 Der Typ des Knotens   
