@@ -31,7 +31,7 @@ Kategorisierung der Transfersummen
 3 = bis 500.000€  
 4 = bis 1.000.000€  
 5 = bis 5.000.000€  
-6 = bis 10.000.000€ 
+6 = bis 10.000.000€
 7 = über 10.000.000€  
 
 TRANSFERTYPE  
