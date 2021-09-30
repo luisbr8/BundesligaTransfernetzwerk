@@ -1,0 +1,123 @@
+id,name,name2,type,level
+FCB,FCB,FC Bayern Muenchen,1,
+S04,S04,FC Schalke 04,1,
+BVB,BVB,Borussia Dortmund,1,
+VFB,VFB,VfB Stuttgart,1,
+TSG,TSG,TSG 1899 Hoffenheim,1,
+SCF,SCF,SC Freiburg,1,
+B04,B04,Bayer 04 Leverkusen,1,
+UNI,UNI,1.FC Union Berlin,1,
+BMG,BMG,Borussia Moenchengladbach,1,
+BRE,BRE,SV Werder Bremen,1,
+F95,F95,Fortuna Duesseldorf,1,
+BSC,BSC,Hertha BSC,1,
+PAD,PAD,SC Paderborn 07,1,
+SGE,SGE,Eintracht Frankfurt,1,
+KOE,KOE,1.FC Koeln,1,
+M05,M05,1.FSV Mainz 05,1,
+WOL,WOL,VfL Wolfsburg,1,
+FCN,FCN,1.FC Nuernberg,1,
+RBL,RBL,RasenBallsport Leipzig,1,
+HSV,HSV,Hamburger SV,1,
+H96,H96,Hannover 96,1,
+D98,D98,SV Darmstadt 98,1,
+FCI,FCI,FC Ingolstadt 04,1,
+FCA,FCA,FC Augsburg,1,
+ENG2,ENG2,Zweite englische Liga,2,3
+ESP1,ESP1,Erste spanische Liga,2,1
+JAP1,JAP1,Erste japanische Liga,2,3
+FRA2,FRA2,Zweite franzoesische Liga,2,3
+ITA3,ITA3,Dritte italienische Liga,2,3
+DNK1,DNK1,Erste daenische Liga,2,2
+GER3,GER3,Dritte deutsche Liga,2,3
+SCO1,SCO1,Erste schottische Liga,2,2
+AUT1,AUT1,Erste oesterreichische Liga,2,2
+ARG1,ARG1,Erste argentinische Liga,2,3
+USA1,USA1,Erste Liga der Vereinigsten Staaten,2,2
+CHN1,CHN1,Erste chinesische Liga,2,2
+GER4,GER4,Vierte deutsche Liga,2,3
+TUR1,TUR1,Erste tuerkische Liga,2,2
+NED2,NED2,Zweite niederlaendische Liga,2,3
+SVK1,SVK1,Erste slovakische Liga,2,3
+BEL1,BEL1,Erste belgische Liga,2,2
+CRO1,CRO1,Erste kroatische Liga,2,3
+GER5,GER5,Fuenfte deutsche Liga,2,3
+KOR1,KOR1,Erste suedkoreanische Liga,2,3
+SUI1,SUI1,Erste schweizerische Liga,2,2
+RUS1,RUS1,Erste russische Liga,2,2
+UKR1,UKR1,Erste ukrainische Liga,2,2
+GRE1,GRE1,Erste griechische Liga,2,2
+ZYP1,ZYP1,Erste zyprische Liga,2,2
+NOR1,NOR1,Erste norwegische Liga,2,2
+SWE1,SWE1,Erste schwedische Liga,2,3
+CZE1,CZE1,Erste tschechische Liga,2,2
+POL1,POL1,Erste polnische Liga,2,3
+ITA2,ITA2,Zweite italienische Liga,2,3
+SAU1,SAU1,Erste saudiarabische Liga,2,3
+BRA1,BRA1,Erste brasilianische Liga,2,2
+ENG1,ENG1,Erste englische Liga,2,1
+ESP2,ESP2,Zweite spanische Liga,2,3
+FRA1,FRA1,Erste franzoesische Liga,2,1
+ITA1,ITA1,Erste italienische Liga,2,1
+POR1,POR1,Erste portugiesische Liga,2,2
+GER2,GER2,Zweite deutsche Liga,2,3
+NED1,NED1,Erste niederlaendische Liga,2,2
+MEX1,MEX1,Erste mexikanische Liga,2,3
+FIN1,FIN1,Erste finnische Liga,2,3
+ROU1,ROU1,Erste rumaenische Liga,2,3
+IRA1,IRA1,Erste iranische Liga,2,3
+SVN1,SVN1,Erste slovenische Liga,2,3
+FCK,FCK,1.FC Kaiserslautern,1,
+QAT1,QAT1,Erste katarische Liga,2,3
+AUS1,AUS1,Erste australische Liga,2,3
+SRB1,SRB1,Erste serbische Liga,2,3
+MAZ1,MAZ1,Erste mazedonische Liga,2,3
+VAE1,VAE1,Erste Liga der Vereinigten Arabischen Emirate,2,3
+GER6,GER6,Sechste deutsche Liga,2,3
+SOU1,SOU1,Erste suedakfrikanische Liga,2,3
+BRA2,BRA2,Unterklassige brasilianische Liga,2,3
+ALB1,ALB1,Erste albanische Liga,2,3
+ISR1,ISR1,Erste israelische Liga,2,3
+POL2,POL2,Zweite polnische Liga,2,3
+CHL1,CHL1,Erste chilenische Liga,2,3
+HUN1,HUN1,Erste ungarische Liga,2,3
+HUN2,HUN2,Unterklassige ungarische Liga,2,3
+BUL1,BUL1,Erste bulgarische Liga,2,3
+SUI2,SUI2,Zweite schweizer Liga,2,3
+SGF,SGF,SpVgg Greuther Fuerth,1,
+AUT2,AUT2,Zweite oesterreichische Liga,2,3
+KAZ1,KAZ1,Erste kasachische Liga,2,3
+KOR2,KOR2,Zweite koreanische Liga,2,3
+USA4,USA4,College-Ligen / vierte Liga der Vereinigten Staaten,2,3
+BOS1,BOS1,Erste bosnische Liga,2,3
+ECU1,ECU1,Erste ecuadorianische Liga,2,3
+VEN1,VEN1,Erste venezolanische Liga,2,3
+TUR2,TUR2,Zweite tuerkische Liga,2,3
+CHN2,CHN2,Zweite chinesische Liga,2,3
+PER1,PER1,Erste peruanische Liga,2,3
+ESP3,ESP3,Dritte spanische Liga,2,3
+DNK2,DNK2,Zweite daenische Liga,2,3
+FRA3,FRA3,Dritte franzoesische Liga,2,3
+WEI1,WEI1,Erste belarussische Liga,2,3
+STP,STP,FC St. Pauli,1,
+THA1,THA1,Erste thailaendische Liga,2,3
+GHA1,GHA1,Erste ghanaische Liga,2,3
+POR2,POR2,Zweite portugiesische Liga,2,3
+BEL2,BEL2,Zweite belgische Liga,2,3
+AZE1,AZE1,Erste aserbaidschanische Liga,2,3
+JAP2,JAP2,Unterklassige japanische Ligen,2,3
+PAR1,PAR1,Erste paraguayische Liga,2,3
+KOL1,KOL1,Erste kolumbianische Liga,2,3
+NIG1,NIG1,Nigerianische Fußball Ligen,2,3
+LET1,LET1,Erste lettische Liga,2,3
+ARM,ARM,Arminia Bielefeld,1,
+ENG3,ENG3,Dritte englische Liga,2,3
+EBS,EBS,Eintracht Braunschweig,1,
+AND1,AND1,Erste andorranische Liga,2,
+SAF1,SAF1,Erste suedafrikanische Liga,2,3
+IND1,IND1,Erste indische Liga,2,3
+SWE2,SWE2,Unterklassige schwedische Ligen,2,3
+CHL2,CHL2,Unterklassige chilenische Ligen,2,3
+CAN1,CAN1,Erste kanadische Liga,2,3
+USA2,USA2,Unterklassige amerikanische Liga,2,3
+ARG2,ARG2,Unterklassige argentinische Liga,2,3
